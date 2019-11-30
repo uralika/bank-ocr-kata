@@ -1,0 +1,15 @@
+{
+  "name": "bank-kata",
+  "version": "1.0.0",
+  "description": "Work on:",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anastasiya Sutyagina",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
